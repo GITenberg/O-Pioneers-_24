@@ -1,0 +1,46 @@
+_repo: O-Pioneers-_24
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cather, Willa
+    aliases:
+    - Cather, Wilella
+    - Catherová, Willa
+    - Catherova, Willa
+    - Cather, Willa Sibert
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: http://en.wikipedia.org/wiki/Willa_Cather
+description: "O Pioneers! is a 1913 novel by American author Willa Cather, written\
+  \ while she was living in New York. It is the first novel of her Great Plains trilogy,\
+  \ followed by The Song of the Lark (1915) and My Ántonia (1918).\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2008-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24'
+  wikidata: Q2008343
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Nebraska -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Swedish Americans -- Fiction'
+- !lcsh 'Women farmers -- Fiction'
+- !lcsh 'Women immigrants -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Nebraska -- Fiction'
+- !lcsh 'Women pioneers -- Fiction'
+- GITenberg
+title: O Pioneers!
+url: http://www.gutenberg.org/ebooks/24
+wikipedia:
+- https://de.wikipedia.org/wiki/O_Pioneers!
+- https://en.wikipedia.org/wiki/O_Pioneers!
