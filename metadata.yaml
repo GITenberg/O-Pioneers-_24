@@ -1,5 +1,8 @@
 _repo: O-Pioneers-_24
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cather, Willa
@@ -17,6 +20,8 @@ description: "O Pioneers! is a 1913 novel by American author Willa Cather, writt
   \ while she was living in New York. It is the first novel of her Great Plains trilogy,\
   \ followed by The Song of the Lark (1915) and My Ántonia (1918).\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24#O-Pioneers-
 gutenberg_issued: '2008-06-27'
 gutenberg_type: Text
 identifiers:
